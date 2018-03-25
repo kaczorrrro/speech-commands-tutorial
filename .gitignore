@@ -3,3 +3,4 @@ dev_audio
 speech_commands
 train_log
 valid_log
+checkpoints
